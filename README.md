@@ -15,7 +15,7 @@ Accediendo a Google Colab en el siguiente link: [Google Collab](https://colab.re
 - Funciona desde todos los dispositivos (Computadora, Android, iPhone)
 
 ### Si utilizan python o conocen las bases:
-- Pueden utilizar [Spider] (https://www.spyder-ide.org/) o el editor de codigo de su preferencia. (Funciona en visual studio code)
+- Pueden utilizar [Spider](https://www.spyder-ide.org/) o el editor de codigo de su preferencia. (Funciona en visual studio code)
 - Copian el codigo desde el link que corresponde y ejecutan.
 
 Deben tener en cuenta que tal vez necesiten tener algunas dependencias instaladas si no las han utilizado previamente. Las utilizadas en los scripts dados se pueden instalar de la siguiente manera:
